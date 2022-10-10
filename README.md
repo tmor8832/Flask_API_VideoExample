@@ -1,4 +1,4 @@
-# Flask_API_VideoExample
+# Flask Project with Azure Storage
 
 Using Flask I created a simple flask app allowing information about events to be placed into a database. The db uses SQLAlchemy. The idea is for this to be linked to ML backend which will push event information to the database. The vue frontend will then use the db and flask with requests to give event information to the user. 
 
